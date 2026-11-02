@@ -2,8 +2,8 @@
 
 **Author:** John Chilombo  
 **Student ID:** 202307440  
-**Course:** Data Visualisation  
-
+**Course:** Data Visualisation 
+**Course Code:**
 ## Project Overview
 
 This Jupyter Notebook explores synthetic rainfall, temperature,
