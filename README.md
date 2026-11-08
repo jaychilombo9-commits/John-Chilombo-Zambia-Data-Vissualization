@@ -2,7 +2,7 @@
 
 **Author:** John Chilombo  
 **Student ID:** 202307440  
-**Course:** Data Visualisation 
+**Course:** Data Visualization and Analytics
 **Course Code:**ICD5011
 ## Project Overview
 
